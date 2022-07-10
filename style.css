@@ -54,17 +54,17 @@ a:hover {
 }
 
 .image-2 {
-    background-image: url('small-2.webp');
+    background-image: url('small-1.webp');
     background-position: center;
 }
 
 .image-3 {
-    background-image: url('small-3.webp');
+    background-image: url('small-1.webp');
     background-position: right;
 }
 
 .image-4 {
-    background-image: url('small-4.webp');
+    background-image: url('small-1.webp');
 }
 
 
