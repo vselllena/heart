@@ -12,6 +12,7 @@ a {
 
 section {
     height: 100vh;
+    width: 100vw;
     /* background-image:url(image-1.jpg ) ; */
 }
 
@@ -19,6 +20,7 @@ section {
 section img {
     object-fit: cover;
     height: 100%;
+    width: 100%;
 }
 
 header {
